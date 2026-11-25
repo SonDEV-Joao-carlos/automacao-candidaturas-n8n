@@ -180,3 +180,9 @@ Sempre buscando aprender, desenvolver projetos práticos e aprimorar conheciment
 ---
 
 ⭐ Se este projeto foi útil, fique à vontade para explorar o workflow e adaptá-lo às suas necessidades.
+
+
+
+## 📸 Visualização do Workflow
+
+![Workflow n8n](workflow.png)
